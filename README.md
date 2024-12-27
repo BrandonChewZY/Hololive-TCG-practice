@@ -1,0 +1,1 @@
+A fresh new project to make a card game for hololive with sample practice 
